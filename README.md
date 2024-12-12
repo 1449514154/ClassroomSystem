@@ -36,7 +36,7 @@ This Java-based file-sharing system enables teachers to upload and manage classr
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/classroom-file-management.git
+   git clone https://github.com/1449514154/ClassroomSystem.git
    ```
 
 2. **Navigate to the Project Directory**:
